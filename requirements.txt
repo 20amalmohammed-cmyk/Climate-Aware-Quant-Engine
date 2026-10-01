@@ -1,0 +1,7 @@
+importlib-metadata==4.13.0
+xarray
+netCDF4
+pandas
+numpy
+matplotlib
+statsmodels
